@@ -8,9 +8,7 @@ Date
 07 May 2022
 
 Repository link
-
+https://github.com/Dcolli50/Third-Party-API-Challenge-5
 
 Web site link
-https://hoffman1200.github.io/Homework-5/
-
-Fernando Soto Calis @hoffman1200
+https://dcolli50.github.io/Third-Party-API-Challenge-5/
